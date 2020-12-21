@@ -38,5 +38,35 @@
     "existingAccountNo": null,
     "requestType": 0
   }
+],
+ "creditLinks":[
+  {
+    "customer": "Customer1",
+    "program": "Test Program",
+    "location": "Kansas",
+    "ucaLink": "https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf",
+    "previouslyApproved": false
+  },
+{
+    "customer": "Customer2",
+    "program": "Test Program",
+    "location": "Kansas",
+    "ucaLink": "https://www.nasa.gov/pdf/62323main_ICS_Weather.pdf",
+    "previouslyApproved": false
+  },
+{
+    "customer": "Customer3",
+    "program": "Test Program",
+    "location": "Kansas",
+    "ucaLink": "https://www.fda.gov/files/food/published/Food-Labeling-Guide-%28PDF%29.pdf",
+    "previouslyApproved": true
+  },
+{
+    "customer": "Customer4",
+    "program": "Test Program",
+    "location": "Kansas",
+    "ucaLink": "https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf",
+    "previouslyApproved": false
+  }
 ]
 }
