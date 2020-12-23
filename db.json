@@ -73,8 +73,8 @@
     "previouslyApproved": false
   }
 ],
-"attachmentResponse":{
+"attachmentResponse":[{
   "fileName": "Test1.pdf",
   "attachmentFile": "abc"
-}
+}]
 }
