@@ -72,5 +72,9 @@
     "ucaFileName": "Test4.pdf",
     "previouslyApproved": false
   }
-]
+],
+"attachmentResponse":{
+  "fileName": "Test1.pdf",
+  "attachmentFile": "abc"
+}
 }
