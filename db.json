@@ -105,7 +105,21 @@
                 "highlight": {
                                 "bgcolor": "#ffffff"
                 }
-}
-
-  
+},
+  "elopApprovals":[
+  {
+  "submittedBy" : "user 1",
+  "lastApprovedBy":"approver 1",
+  "comments":" comments included",
+  "status":"approved",
+  "downloadName":"Test1.pdf"
+  },
+{
+  "submittedBy" : "user 2",
+  "lastApprovedBy":"approver 2",
+  "comments":" comments included 2",
+  "status":"rejected",
+  "downloadName":"Test1.pdf"
+  }
+  ]
 }
