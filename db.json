@@ -108,17 +108,19 @@
 },
   "elopApprovals":[
   {
+   "uniqueId":"1345",
   "submittedBy" : "user 1",
   "lastApprovedBy":"approver 1",
   "comments":" comments included",
-  "status":"approved",
+  "status":"Approved",
   "downloadName":"Test1.pdf"
   },
 {
+  "uniqueId":"11111",
   "submittedBy" : "user 2",
   "lastApprovedBy":"approver 2",
   "comments":" comments included 2",
-  "status":"rejected",
+  "status":"Rejected",
   "downloadName":"Test1.pdf"
   }
   ]
