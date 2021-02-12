@@ -89,6 +89,7 @@
   "lastApprovedBy":"approver 1",
   "comments":" comments included",
   "status":"Approved",
+  "downloadLink": "Attachments/Test1.pdf",
   "downloadName":"Test1.pdf"
   },
 {
@@ -97,6 +98,7 @@
   "lastApprovedBy":"approver 2",
   "comments":" comments included 2",
   "status":"Rejected",
+  "downloadLink": "Attachments/Test1.pdf",
   "downloadName":"Test1.pdf"
   }
   ]
