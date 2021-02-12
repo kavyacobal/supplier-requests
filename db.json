@@ -77,35 +77,11 @@
   "fileName": "Test1.pdf",
   "attachmentFile": "abc"
 },
- "smartsheet":{
-                "tasks": [
-                                {
-                                                "id": 1,
-                                                "name": "This is the first task",
-                                                "attachment": true,
-                                                "comments": "Comments here",
-                                                "onboardingType": "Some string",
-                                                "weight": 1,
-                                                "country": "Burkina Faso",
-                                                "channel": "Some Channel",
-                                                "program": "Some Program",
-                                                "status": "Some Status",
-                                                "assignedTo": "Some person",
-                                                "secondaryAssignedTo": "Some person",
-                                                "startDate": "Some date",
-                                                "estimatedDate": "Est Date",
-                                                "endDate": "Some end Date",
-                                                "timelineDays": 2,
-                                                "atRisk": true,
-                                                "hasChanged": true,
-                                                "subTasks": [
-                                                ]
-                                }
-                ],
-                "highlight": {
-                                "bgcolor": "#ffffff"
-                }
-},
+"locationAuto":[ 
+  { id: 'foo', label: 'foo' },
+  { id: 'bar', label: 'bar' },
+  { id: 'baz', label: 'baz' }
+   ],
   "elopApprovals":[
   {
    "uniqueId":"1345",
