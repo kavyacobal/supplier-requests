@@ -78,9 +78,36 @@
   "attachmentFile": "abc"
 },
 "locationAuto":[ 
-  { "id": "foo", "tierTitle": "foo" },
-  { "id": "bar", "tierTitle": "bar" },
-  { "id": "baz", "tierTitle": "baz" }
+  { "id": "foo", "tierTitle": "foo", "address": {
+      "street1": "string",
+      "street2": "string",
+      "fullAddress": "string",
+      "city": "string",
+      "state": "string",
+      "county": "string",
+      "zipCode": "string",
+      "country": "string"
+    } },
+  { "id": "bar", "tierTitle": "bar","address": {
+      "street1": "string",
+      "street2": "string",
+      "fullAddress": "test",
+      "city": "test",
+      "state": "test",
+      "county": "string",
+      "zipCode": "test",
+      "country": "test"
+    } },
+  { "id": "baz", "tierTitle": "baz","address": {
+      "street1": "string",
+      "street2": "string",
+      "fullAddress": "string",
+      "city": "string",
+      "state": "string",
+      "county": "string",
+      "zipCode": "string",
+      "country": "string"
+    } }
    ],
   "elopApprovals":[
   {
