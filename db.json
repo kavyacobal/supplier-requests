@@ -78,9 +78,9 @@
   "attachmentFile": "abc"
 },
 "locationAuto":[ 
-  { "id": "foo", "label": "foo" },
-  { "id": "bar", "label": "bar" },
-  { "id": "baz", "label": "baz" }
+  { "id": "foo", "tierTitle": "foo" },
+  { "id": "bar", "tierTitle": "bar" },
+  { "id": "baz", "tierTitle": "baz" }
    ],
   "elopApprovals":[
   {
