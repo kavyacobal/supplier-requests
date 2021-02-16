@@ -78,7 +78,7 @@
   "attachmentFile": "abc"
 },
 "locationAuto":[ 
-  { "id": "foo", "tierTitle": "foo", "address": {
+  { "accountId": "1", "accountName": "Jean LLC", "address": {
       "street1": "string",
       "street2": "string",
       "fullAddress": "string",
@@ -88,7 +88,7 @@
       "zipCode": "string",
       "country": "string"
     } },
-  { "id": "bar", "tierTitle": "bar","address": {
+  { "accountId": "2", "accountName": "Springhill Suites Goodyear - HCW","address": {
       "street1": "string",
       "street2": "string",
       "fullAddress": "test",
@@ -98,7 +98,7 @@
       "zipCode": "test",
       "country": "test"
     } },
-  { "id": "baz", "tierTitle": "baz","address": {
+  { "accountId": "3", "accountName": "test 1212","address": {
       "street1": "string",
       "street2": "string",
       "fullAddress": "string",
