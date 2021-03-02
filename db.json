@@ -123,22 +123,23 @@
    ],
   "elopApprovals":[
   {
-   "uniqueId":"1345",
-  "submittedBy" : "user 1",
-  "lastApprovedBy":"approver 1",
-  "comments":" comments included",
-  "status":"Approved",
-  "downloadLink": "Attachments/Test1.pdf",
-  "downloadName":"Test1.pdf"
+     "approvalId": 0,
+    "eLopId": "string",
+    "submittedOn": "string",
+    "lastApprovedBy": "string",
+    "pdfAttachmentLink": "string",
+    "submittedBy":"user1",
+    "comments":"comments"
+    
   },
 {
-  "uniqueId":"11111",
-  "submittedBy" : "user 2",
-  "lastApprovedBy":"approver 2",
-  "comments":" comments included 2",
-  "status":"Rejected",
-  "downloadLink": "Attachments/Test1.pdf",
-  "downloadName":"Test1.pdf"
+      "approvalId": 1
+    "eLopId": "string 1",
+    "submittedOn": "string",
+    "lastApprovedBy": "string",
+    "pdfAttachmentLink": "string",
+    "submittedBy":"user2,
+    "comments":"comments 1
   }
   ]
 }
