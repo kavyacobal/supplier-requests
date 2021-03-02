@@ -133,7 +133,7 @@
     
   },
 {
-      "approvalId": 1
+      "approvalId": 1,
     "eLopId": "string 1",
     "submittedOn": "string",
     "lastApprovedBy": "string",
