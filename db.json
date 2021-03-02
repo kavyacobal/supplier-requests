@@ -138,7 +138,7 @@
     "submittedOn": "string",
     "lastApprovedBy": "string",
     "pdfAttachmentLink": "string",
-    "submittedBy":"user2,
+    "submittedBy":"user2",
     "comments":"comments 1"
   }
   ]
