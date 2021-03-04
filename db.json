@@ -49,7 +49,9 @@
     "modifiedTimestamp": "2021-01-09T10:26:45Z",
     "nearingSLA": false,
     "hasReachedSLA": null,
-    "notesAttachments": null,
+    "notesAttachments": [
+    { "privateLabel": true,  "title": "string",  "notesBody": "string",  "attachments": "string" },
+    { "privateLabel": false,  "title": "string 1",  "notesBody": "string",  "attachments": "string2" }],
     "requestQuote": false
   }
 ],
