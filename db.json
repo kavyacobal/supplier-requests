@@ -175,5 +175,87 @@
     "submittedBy":"user2",
     "comments":"comments 1"
   }
-  ]
+  ],
+  "elopCorporateTabs":[
+  {
+    "programId": "1",
+    "programName": "American Hotel",
+    "parentLocationName": "Parent Location",
+    "parentLocationId": "123",
+    "parentLocationAddress": {
+      "street1": null,
+      "street2": null,
+      "fullAddress": "test address",
+      "city": "test city",
+      "state": "parent",
+      "county": null,
+      "zipCode": null,
+      "country": "United States"
+    },
+    "locations": [
+      {
+        "locationId": "1",
+        "locationName": "Springhill Suites Goodyear - HCW",
+        "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "test address",
+          "city": "test city",
+          "state": null,
+          "county": null,
+          "zipCode": null,
+          "country": "United States"
+        },
+        "corporateElopRequired": true,
+        "locationSpecificElopRequired": false
+      },
+      {
+        "locationId": "2",
+        "locationName": "sample 2",
+        "corporateElopRequired": true,
+        "locationSpecificElopRequired": false
+      }
+    ]
+  },
+  {
+    "programId": "2",
+    "programName": "Bandor",
+    "parentLocationName": "Parent Location 2",
+    "parentLocationId": "123",
+    "parentLocationAddress": {
+      "street1": null,
+      "street2": null,
+      "fullAddress": "test address",
+      "city": "test city",
+      "state": "parent",
+      "county": null,
+      "zipCode": null,
+      "country": "United States"
+    },
+    "locations": [
+      {
+        "locationId": "3",
+        "locationName": "Hill tree",
+        "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "test address",
+          "city": "test city",
+          "state": null,
+          "county": null,
+          "zipCode": null,
+          "country": "United States"
+        },
+        "corporateElopRequired": true,
+        "locationSpecificElopRequired": false
+      },
+      {
+        "locationId": "4",
+        "locationName": "Kavya",
+        "corporateElopRequired": false,
+        "locationSpecificElopRequired": false
+      }
+    ]
+  }
+]
 }
