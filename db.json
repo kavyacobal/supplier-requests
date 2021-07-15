@@ -82,7 +82,7 @@
     "notesAttachments": [
     { "privateLabel": true,  "title": "string",  "notesBody": "string",  "attachments": "string" },
     { "privateLabel": false,  "title": "string 1",  "notesBody": "string",  "attachments": "string2" }],
-    "requestQuote": true
+    "requestQuote": false
   }
 ],
  "creditLinks":[
