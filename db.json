@@ -20,7 +20,7 @@
     "existingAccountNo": null,
     "requestType": "pending",
     "modifiedTimestamp": "2021-01-09T10:26:45Z",
-    "nearingSLA": true,
+    "nearingSLA": false,
     "hasReachedSLA": null,
     "attachmentsLinks":["test1","test2"],
     "notesAttachments": [
@@ -48,7 +48,7 @@
     "existingAccountNo": null,
     "requestType": "pending",
     "modifiedTimestamp": "2021-01-09T10:26:45Z",
-    "nearingSLA": false,
+    "nearingSLA": true,
     "hasReachedSLA": null,
   "attachmentsLinks":["test1","test2"],
     "notesAttachments": [
