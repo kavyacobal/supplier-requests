@@ -77,12 +77,12 @@
     "requestType": "completed",
     "modifiedTimestamp": "2021-01-09T10:26:45Z",
     "nearingSLA": false,
-    "hasReachedSLA": null,
+    "hasReachedSLA": true,
   "attachmentsLinks":["test1","test2"],
     "notesAttachments": [
     { "privateLabel": true,  "title": "string",  "notesBody": "string",  "attachments": "string" },
     { "privateLabel": false,  "title": "string 1",  "notesBody": "string",  "attachments": "string2" }],
-    "requestQuote": true
+    "requestQuote": false
   }
 ],
  "creditLinks":[
